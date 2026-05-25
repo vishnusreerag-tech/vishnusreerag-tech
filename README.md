@@ -147,7 +147,6 @@ A machine learning application that classifies news articles as real or fake usi
 **Repo:** [vishnusreerag-tech/FakeNews-Sentinel](https://github.com/vishnusreerag-tech/FakeNews-Sentinel
 )
 
----
 
 </details>
 
