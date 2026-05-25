@@ -194,14 +194,13 @@ A machine learning application that classifies news articles as real or fake usi
 ## `CONNECT` &nbsp;
 >
 
-<a href="https://www.linkedin.com/in/vishnusreerag-tech/" target="_blank">
+<a href="https://www.linkedin.com/in/vishnusreerag/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://www.instagram.com/vishnusreerag.tech/" target="_blank">
+<a href="https://www.instagram.com/vishnusreerag/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-
 
 
 ---
