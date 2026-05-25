@@ -177,7 +177,6 @@ A machine learning application that classifies news articles as real or fake usi
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/vishnusreerag-tech/vishnusreerag-tech/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>_generated with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_</sub>
 
 </div>
 
