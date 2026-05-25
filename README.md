@@ -204,13 +204,3 @@ A machine learning application that classifies news articles as real or fake usi
 
 
 ---
-
-<div align="center">
-
-<sub>Built with intent · Updated with growth · Powered by too much chai ☕</sub>
-
-<br/><br/>
-
-<sub>Every bug I fix comes back with friends 🤝🐛</sub>
-
-</div>
