@@ -4,7 +4,7 @@
 ```
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=a78bfa&center=true&width=600&lines=Student+%7C+Builder+%7C+Debugger+of+Life;Writing+Code%2C+Breaking+Things%2C+Learning+Why;Based+in+Kochi+%F0%9F%8C%8A+%7C+Fueled+by+Curiosity;AI+%C2%B7+Web+%C2%B7+Systems+%C2%B7+Whatever+Sparks+Joy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=a78bfa&center=true&width=600&lines=AI+%26+Data+Science+Enthusiast;MSc+Computer+Science+Student;Python+Developer+%7C+ML+Builder;Creating+Real-World+AI+Applications;Open+Source+Learner+%F0%9F%9A%80;Future+NLP+%26+Data+Science+Engineer" alt="Typing SVG" />
 
 <br/>
 
