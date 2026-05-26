@@ -116,6 +116,26 @@ An AI-powered resume analysis platform that evaluates resumes, extracts technica
 
 ---
 
+### 🤖 AI Research Assistant
+> AI-powered research assistant using RAG, semantic search, and vector databases
+
+An intelligent research assistant that allows users to upload documents, retrieve relevant information using semantic similarity, and generate context-aware answers using Large Language Models.
+
+**Features**
+- PDF Document Processing
+- Semantic Search & Retrieval
+- ChromaDB Vector Database Integration
+- Context-Aware Question Answering
+- Modular RAG Pipeline
+- Interactive Streamlit Interface
+- Gemini/OpenAI LLM Integration
+  
+
+**Stack:** `Python` `Streamlit` `LangChain` `ChromaDB` `NLP` `HuggingFace` `Embeddings` `Gemini` `API` 
+**Repo:** [vishnusreerag-tech/AI-Resume-Analyzer](https://github.com/vishnusreerag-tech/AI-Resume-Analyzer)
+
+---
+
 ### 💬 AI Chatbot
 > A conversational AI assistant powered by Groq
 
