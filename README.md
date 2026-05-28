@@ -132,7 +132,7 @@ An intelligent research assistant that allows users to upload documents, retriev
   
 
 **Stack:** `Python` `Streamlit` `LangChain` `ChromaDB` `NLP` `HuggingFace` `Embeddings` `Gemini` `API` 
-**Repo:** [vishnusreerag-tech/AI-Resume-Analyzer](https://github.com/vishnusreerag-tech/AI-Research-Assistant)
+**Repo:** [vishnusreerag-tech/AI-Resarch-Assistant](https://github.com/vishnusreerag-tech/AI-Research-Assistant)
 
 ---
 
